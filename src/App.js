@@ -2,8 +2,7 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Routes,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Navbar from "./components/navbar";
 import './assets/css/style.css';
@@ -36,7 +35,7 @@ function App() {
     </div>
     <div class="advertisments">
       <div class="discord-ad">
-      <iframe src="https://canary.discord.com/widget?id=798273079624073256&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>  
+      <iframe title="discord advertisment" src="https://canary.discord.com/widget?id=798273079624073256&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" />
       </div>
     </div>
     </>
