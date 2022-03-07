@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+* {
+    font-family:'Poppins', Times, serif;
+    color: white;
+}
+
+html {
+    /* overflow-y: hidden; */
+}
+
+body {
+    overflow-y: auto;
+}
+
+/* width */
+body::-webkit-scrollbar {
+    width: 10px;
+    right: 10px;
+  }
+  
+  /* Track */
+body::-webkit-scrollbar-track {
+    background: #b3b3b3;
+}
+  
+  /* Handle */
+body::-webkit-scrollbar-thumb {
+    background: rgb(114, 114, 114);
+    border-radius: 100px;
+}
+  
+  /* Handle on hover */
+body::-webkit-scrollbar-thumb:hover {
+    background: rgb(58, 58, 58);
+}
+
+h1 {
+    position: absolute;
+    font-weight: 900;
+    font-size: 6.5em;
+    left:10%;
+}
+
+
+
+/* h1::after {
+    position: absolute;
+    content: attr(data-text);
+} */
+
+.nav-txt {
+    font-weight: 300;
+}
+
+.navbar {
+    z-index: 5;
+
+    position: fixed;
+    width: 100vw;
+    left:0;
+
+    display: flex;
+    float: left;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.nav-li {
+    padding-right: 15px;
+    list-style: none;
+}
+
+.nav-txt {
+    padding-top: 19.5px;
+}
+
+.red-underline {
+    text-decoration: none;
+}
+
+.red-underline:hover {
+    text-decoration: underline rgb(242, 67, 72) 4px;
+}
+
+.no-style {
+    list-style: none;
+    font-style: none;
+}
+
+.no-select {
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.join-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 2em;
+    width: 6rem;
+    border-radius: 1.5em;
+
+    background-color: rgb(242, 67, 72);
+    color: white;
+
+    text-decoration: none;
+
+    padding: 0.5em;
+}
+
+img {
+    user-select: none;
+}
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -10;
+    background-image: url(../img/BG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fade {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}
+
+.gta-cha {
+    z-index: 0;
+
+    position: fixed;
+    height: 100vh;
+    top: 5px;
+    left:50%;
+}
+
+.discord-btn {
+    position: absolute;
+    display: flex;
+    right: 10%;
+    top:3%;    
+    z-index: 10;
+}
+
+.server-btn {
+    position: absolute;
+    top: 75%;
+    left: 15%;
+
+}
+
+.center {
+    position: relative;
+
+    left: 50%;
+    transform: translate(-50%,0%);
+}
+
+.text-Bg {
+    z-index: 10;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    background: rgb(23, 23, 23);
+    max-width: 80%;
+    min-width: 20%;
+    height: fit-content;
+    border-radius: 0.25em;
+    padding: 0.8em;
+    margin: 0.5em;
+
+    text-align: center;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 10px;
+    left: 15px;
+}
+
+.cad {
+    z-index: 1;
+    width:1800px;
+    height:800px;
+
+    top:90px ; 
+}
+
+.discord-ad {
+    position: fixed;
+    right: 10px;
+    bottom: 5px;
+}
