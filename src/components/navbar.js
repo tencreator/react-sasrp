@@ -11,7 +11,7 @@ export default function navbar() {
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="/about/" class="btn nav-btn red-underline">
+                <a href="/about/" class="btn nav-btn red-underline no-mobile">
                     <span class="nav-txt">About</span>
                 </a>
             </li>
@@ -26,7 +26,7 @@ export default function navbar() {
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="https://app.sonorancad.com/#/?comid=SASRolePlay" class="btn nav-btn red-underline">
+                <a href="https://app.sonorancad.com/#/?comid=SASRolePlay" class="btn nav-btn red-underline no-mobile">
                     <span class="nav-txt">Cad</span>
                 </a>
             </li>
