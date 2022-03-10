@@ -11,8 +11,8 @@ export default function home() {
                 <div>SAN ANDREAS STATE</div> ROLEPLAY
             </strong>
         </h1>
-        <div class="btn-class">
-            <a href="fivem://connect/cfx.re/join/84kabm" class="join-btn server-btn">Join</a>
+        <div class="btn-class no-mobile">
+            <a href="fivem://connect/cfx.re/join/84kabm" class="join-btn server-btn no-mobile">Join</a>
         </div>
     </>
   )
