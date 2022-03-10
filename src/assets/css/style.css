@@ -226,5 +226,10 @@ display: none;
 
   .center {
    top:90px;
+   Padding-bottom:20px;
+  }
+
+  .text-bg {
+   Width: min(600px,700px)
   }
 }
