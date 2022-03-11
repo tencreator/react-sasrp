@@ -41,7 +41,7 @@ h1 {
     font-weight: 900;
     font-size: 6.5em;
     left:10%;
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
 
@@ -224,7 +224,7 @@ display: none;
 
 @media screen and (max-width: 800px) {
   h1 {
-   font-size:2em;
+   font-size:2.5em;
    top:50px;
   }
 
