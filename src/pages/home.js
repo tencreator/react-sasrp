@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function home() {
   return (
-      <div class="mobile-edits">
+      <section class="mobile-edits">
     <head>
         <title>SASRP | Home</title>
     </head>
@@ -14,6 +14,6 @@ export default function home() {
         <div class="btn-class no-mobile">
             <a href="fivem://connect/cfx.re/join/84kabm" class="join-btn server-btn no-mobile">Join</a>
         </div>
-    </div>
+    </section>
   )
 }
