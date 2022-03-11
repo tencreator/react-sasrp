@@ -222,6 +222,7 @@ display: none;
 @media screen and (max-width: 800px) {
   h1 {
    font-size:2em;
+   top:50px;
   }
 
   .discord-ad {
