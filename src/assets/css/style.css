@@ -36,10 +36,13 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 h1 {
+    
     position: absolute;
     font-weight: 900;
     font-size: 6.5em;
     left:10%;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 
