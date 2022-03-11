@@ -247,7 +247,7 @@ display: none;
 
   .navbar {
    z-index:11;
-   background: rgba(0,0,0,100);
+   background-color: rgba(0,0,0,50);
   }
 
   .copyright {
