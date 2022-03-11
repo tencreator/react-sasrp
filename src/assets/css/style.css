@@ -248,6 +248,9 @@ display: none;
   .navbar {
    z-index:11;
    background-color: rgba(0,0,0,0.5);
+   top:0px;
+   padding-bottom:20px;
+   padding-top:20px;
   }
 
   .copyright {
