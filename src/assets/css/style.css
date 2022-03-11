@@ -258,4 +258,8 @@ display: none;
   .copyright {
    Display : none;
   }
+
+  .mobile-edits {
+   position: fixed;
+  }
 }
