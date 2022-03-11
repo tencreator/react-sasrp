@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function home() {
   return (
-      <>
+      < class="mobile-edits">
     <head>
         <title>SASRP | Home</title>
     </head>
