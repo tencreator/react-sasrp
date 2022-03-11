@@ -249,8 +249,9 @@ display: none;
    z-index:11;
    background-color: rgba(0,0,0,0.5);
    top:0px;
-   padding-bottom:20px;
-   padding-top:20px;
+   padding-bottom:10px;
+   padding-top:10px;
+   border:0px;
   }
 
   .copyright {
