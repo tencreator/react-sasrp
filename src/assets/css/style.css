@@ -263,3 +263,13 @@ display: none;
    position: fixed;
   }
 }
+
+@media screen and (max-width: 1200px) {
+  .Discord-ad {
+   display: none;
+  }
+
+  .no-tablet {
+   display: none;
+  }
+}
