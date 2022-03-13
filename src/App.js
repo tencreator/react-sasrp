@@ -25,7 +25,7 @@ function App() {
     </main>
 
     <div class="copyright">
-      Made by TenCreator <br/>
+      Made by KKinsey <br/>
       SASRP™ 2022  
     </div>
 
