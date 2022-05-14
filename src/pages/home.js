@@ -12,7 +12,7 @@ export default function home() {
             </strong>
         </h1>
         <div class="btn-class no-mobile">
-            <a href="fivem://connect/cfx.re/join/84kabm" class="join-btn server-btn no-mobile">Join</a>
+            <a href="fivem://connect/cfx.re/join/69qyv8" class="join-btn server-btn no-mobile">Join</a>
         </div>
     </section>
   )
