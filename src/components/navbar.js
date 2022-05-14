@@ -26,7 +26,7 @@ export default function navbar() {
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="https://app.sonorancad.com/#/?comid=SASRolePlay" class="btn nav-btn red-underline no-mobile">
+                <a href="https://cad.sasrp.xyz/login.php" class="btn nav-btn red-underline no-mobile">
                     <span class="nav-txt">Cad</span>
                 </a>
             </li>
