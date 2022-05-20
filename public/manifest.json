@@ -1,24 +1,14 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "SASRP",
+  "name": "San Andreas State Police",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://dunb17ur4ymx4.cloudfront.net/webstore/logos/3c52fc7f52f6f122e1590af2b7edb12ecec9d4d3.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
