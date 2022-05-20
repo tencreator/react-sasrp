@@ -7,7 +7,7 @@ export default function navbar() {
         <ul class="navbar">
             <li class="nav-li">
                 <a href="/" class="btn nav-btn">
-                    <img class="logo" src="https://cdn.discordapp.com/attachments/916700373534777374/948986319118413844/SASRP_GLow.png" alt="SASRP Logo" />
+                    <img class="logo" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/3c52fc7f52f6f122e1590af2b7edb12ecec9d4d3.png" alt="SASRP Logo" />
                 </a>
             </li>
             <li class="nav-li nav-txt">
