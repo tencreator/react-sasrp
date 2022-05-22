@@ -26,7 +26,7 @@ export default function navbar() {
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="http://dutylogs.sasrp.xyz" class="btn nav-btn red-underline no-mobile">
+                <a href="http://dutylogs.sasrp.xyz" class="btn nav-btn red-underline">
                     <span class="nav-txt">Duty logs</span>
                 </a>
             </li>
