@@ -4,11 +4,11 @@ export default function About() {
   return (
     <>
     <title>
-      SASRP | Rules
+      JSRP | Rules
     </title>
     <div class="text-Bg center">
       <span>
-        SASRP SERVER RULES<br/>
+        JSRP SERVER RULES<br/>
         <br/>
         Hello these are the rules you must follow when apart of the community San Andreas State Roleplay ! <br />
         <br/>
