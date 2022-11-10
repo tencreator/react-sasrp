@@ -4,11 +4,11 @@ export default function home() {
   return (
       <section class="mobile-edits">
     <head>
-        <title>SASRP | Home</title>
+        <title>JSRP | Home</title>
     </head>
         <h1>
             <strong>
-                <div>SAN ANDREAS STATE</div> ROLEPLAY
+                <div>JUSTICE STATE</div> ROLEPLAY
             </strong>
         </h1>
         <div class="btn-class no-mobile">
