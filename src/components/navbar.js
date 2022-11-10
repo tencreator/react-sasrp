@@ -16,7 +16,7 @@ export default function navbar() {
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="https://store.sasrp.xyz" class="btn nav-btn red-underline">
+                <a href="https://store.jsrp.xyz" class="btn nav-btn red-underline">
                     <span class="nav-txt">store</span>
                 </a> 
             </li>
@@ -26,17 +26,17 @@ export default function navbar() {
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="http://dutylogs.sasrp.xyz" class="btn nav-btn red-underline">
+                <a href="http://dutylogs.jsrp.xyz" class="btn nav-btn red-underline">
                     <span class="nav-txt">Duty logs</span>
                 </a>
             </li>
             <li class="nav-li nav-txt">
-                <a href="https://cad.sasrp.xyz/login.php" class="btn nav-btn red-underline no-mobile">
+                <a href="https://cad.jsrp.xyz/" class="btn nav-btn red-underline no-mobile">
                     <span class="nav-txt">Cad</span>
                 </a>
             </li>
             <li class="no-style">
-            <a href="https://discord.gg/sasrp" class="join-btn discord-btn">discord</a>
+            <a href="https://discord.gg/JSRP" class="join-btn discord-btn">discord</a>
             </li>
         </ul>
     </nav>
